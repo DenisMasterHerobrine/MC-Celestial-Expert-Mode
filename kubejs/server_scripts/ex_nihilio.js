@@ -64,15 +64,6 @@ onEvent(`recipes`, e => {
   var exRack = `exnihilosequentia:crushed_netherrack`;
   var exEnd = `exnihilosequentia:crushed_end_stone`;
 
-  //Crucible heating `blocks`
-  heat(`botania:blaze_block`, 8);
-  //heat(`allthemodium:molten_bluelava`, 200);
-  //heat(`allthemodium:flowing_molten_bluelava`, 200);
-  heat(`alltheores:uranium_block`, 20);
-  heat(`minecraft:magma_block`, 3);
-  heat(`minecraft:fire`, 4);
-  heat(`minecraft:lava`, 5);
-  heat(`mekanism:superheating_element`, 60);
 
   //Params go like this: Mesh, Drop chance, Input item, Output item, Waterlogged.
   //Overworld sieve
@@ -81,6 +72,8 @@ onEvent(`recipes`, e => {
   //sieve(`emerald`, 0.02, `minecraft:gravel`, `astralsorcery:rock_crystal`, null);
   sieve(`iron`, 0.15, `#minecraft:sand`, `astralsorcery:aquamarine`, true);
   sieve(`iron`, 0.25, `#minecraft:sand`, `minecraft:ink_sac`, true);
+  //sieve(`iron`, 0.05, `minecraft:gravel`, `kubejs:piece_osmium`, null);
+  sieve(`diamond`, 0.1, `minecraft:gravel`, `kubejs:piece_osmium`, null);
   //sieve(`iron`, 0.025, `minecraft:gravel`, `mekanism:fluorite_gem`, null);
   sieve(`diamond`, 0.05, `minecraft:gravel`, `mekanism:fluorite_gem`, null);
   //sieve(`flint`, 0.01, `#minecraft:sand`, `mekanism:salt`, null);
@@ -99,6 +92,7 @@ onEvent(`recipes`, e => {
   //sieve(`flint`, 0.05, `#forge:gravel`, `thermal:sulfur`, null);
   sieve(`iron`, 0.1, `#forge:gravel`, `thermal:sulfur`, null);
   //sieve(`diamond`, 0.15, `#forge:gravel`, `thermal:sulfur`, null);
+  sieve(`emerald`, 0.25, `#forge:gravel`, `forbidden_arcanus:arcane_crystal`, null);
 
   sieve(`emerald`, 0.05, `minecraft:dirt`, `integrateddynamics:menril_berries`, true);
 
@@ -150,7 +144,7 @@ onEvent(`recipes`, e => {
   var chunks = [
     `mod`,
     `vib`,
-    `unob`,
+    `unob`
   ];
   chunks.forEach(name => {
     e.shaped(`kubejs:chunk_${name}`, [
@@ -200,6 +194,18 @@ onEvent(`recipes`, e => {
   crushEm(exEnd, `#forge:end_stones`);
 
   var pieces = [
+    `osmium`,
+    `copper`,
+    `lead`,
+    `nickel`,
+    `silver`,
+    `tin`,
+    `aluminum`,
+    `platinum`,
+    `uranium`,
+    `zinc`,
+    `iron`,
+    `gold`,
     `mod`,
     `vib`,
     `unob`,
@@ -216,7 +222,3 @@ onEvent(`recipes`, e => {
     }
   });
 });
-
-
-
-

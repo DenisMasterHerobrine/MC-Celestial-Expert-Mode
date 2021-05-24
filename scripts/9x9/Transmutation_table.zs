@@ -54,12 +54,12 @@ mods.extendedcrafting.TableCrafting.addShaped("celestial_catalyst", <item:kubejs
 
 //celestial_block
 mods.extendedcrafting.TableCrafting.addShaped("celestial_block", <item:kubejs:celestial_block>, [
-	[<item:lordcraft:crystal_pure>, <item:kubejs:celestial_ingot>, <item:kubejs:celestial_ingot>, <item:avaritia:neutronium_block>, <item:avaritia:neutronium_block>, <item:avaritia:neutronium_block>, <item:kubejs:celestial_ingot>, <item:kubejs:celestial_ingot>, <item:lordcraft:crystal_pure>],
+	[<item:lordcraft:crystal_pure>, <item:kubejs:celestial_ingot>, <item:kubejs:celestial_ingot>, <item:projecte:klein_star_omega>, <item:projecte:klein_star_omega>, <item:projecte:klein_star_omega>, <item:kubejs:celestial_ingot>, <item:kubejs:celestial_ingot>, <item:lordcraft:crystal_pure>],
 	[<item:kubejs:celestial_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:infinity_ingot>, <item:avaritia:infinity_ingot>, <item:avaritia:infinity_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:kubejs:celestial_ingot>],
 	[<item:kubejs:celestial_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:appliedenergistics2:creative_storage_cell>, <item:mysticalagradditions:creative_essence>, <item:appliedenergistics2:creative_energy_cell>, <item:mysticalagradditions:creative_essence>, <item:appliedenergistics2:creative_storage_cell>, <item:avaritia:crystal_matrix_ingot>, <item:kubejs:celestial_ingot>],
-	[<item:avaritia:neutronium_block>, <item:avaritia:infinity_ingot>, <item:mysticalagradditions:creative_essence>, <item:mekanism:creative_energy_cube>, <item:avaritia:infinity_catalyst>, <item:bigreactors:basic_turbinecreativesteamgenerator>, <item:mysticalagradditions:creative_essence>, <item:avaritia:infinity_ingot>, <item:avaritia:neutronium_block>],
+	[<item:projecte:klein_star_omega>, <item:avaritia:infinity_ingot>, <item:mysticalagradditions:creative_essence>, <item:mekanism:creative_energy_cube>, <item:avaritia:infinity_catalyst>, <item:bigreactors:basic_turbinecreativesteamgenerator>, <item:mysticalagradditions:creative_essence>, <item:avaritia:infinity_ingot>, <item:projecte:klein_star_omega>],
 	[<item:overloaded:true_infinite_barrel>, <item:avaritia:infinity_ingot>, <item:mekanism:creative_fluid_tank>, <item:avaritia:infinity_catalyst>, <item:kubejs:celestial_catalyst>, <item:avaritia:infinity_catalyst>, <item:cyclic:battery_infinite>, <item:avaritia:infinity_ingot>, <item:overloaded:true_infinite_tank>],
-	[<item:avaritia:neutronium_block>, <item:avaritia:infinity_ingot>, <item:mysticalagradditions:creative_essence>, <item:create:creative_crate>, <item:avaritia:infinity_catalyst>, <item:overloaded:creative_generator>, <item:mysticalagradditions:creative_essence>, <item:avaritia:infinity_ingot>, <item:avaritia:neutronium_block>],
+	[<item:projecte:klein_star_omega>, <item:avaritia:infinity_ingot>, <item:mysticalagradditions:creative_essence>, <item:create:creative_crate>, <item:avaritia:infinity_catalyst>, <item:overloaded:creative_generator>, <item:mysticalagradditions:creative_essence>, <item:avaritia:infinity_ingot>, <item:projecte:klein_star_omega>],
 	[<item:kubejs:celestial_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:mysticalagradditions:creative_essence>, <item:botania:creative_pool>, <item:mysticalagradditions:creative_essence>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:kubejs:celestial_ingot>],
 	[<item:kubejs:celestial_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:infinity_ingot>, <item:avaritia:infinity_ingot>, <item:avaritia:infinity_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:avaritia:crystal_matrix_ingot>, <item:kubejs:celestial_ingot>],
 	[<item:lordcraft:crystal_pure>, <item:lordcraft:artifact_water>, <item:lordcraft:artifact_earth>, <item:lordcraft:artifact_dark>, <item:overloaded:true_infinite_capacitor>, <item:lordcraft:artifact_fire>, <item:lordcraft:artifact_air>, <item:lordcraft:artifact_light>, <item:lordcraft:crystal_pure>]
@@ -392,11 +392,11 @@ mods.extendedcrafting.TableCrafting.addShaped("creative_crate", <item:create:cre
 
 //neutron_collector
 mods.extendedcrafting.TableCrafting.addShaped("neutron_collector", <item:avaritia:neutron_collector>, [
-	[<item:armorplus:the_ultimate_material>, <item:mysticalagradditions:dragon_egg_crux>, <item:armorplus:the_ultimate_material>, <item:mysticalagradditions:dragon_egg_crux>, <item:armorplus:the_ultimate_material>],
-	[<item:mysticalagradditions:nether_star_crux>, <item:extendedcrafting:the_ultimate_ingot>, <item:mekanism:pellet_antimatter>, <item:extendedcrafting:the_ultimate_ingot>, <item:mysticalagradditions:nether_star_crux>],
-	[<item:armorplus:the_ultimate_material>, <item:mekanism:pellet_antimatter>, <item:extendedcrafting:the_ultimate_catalyst>, <item:mekanism:pellet_antimatter>, <item:armorplus:the_ultimate_material>],
-	[<item:mysticalagradditions:nether_star_crux>, <item:extendedcrafting:the_ultimate_ingot>, <item:mekanism:pellet_antimatter>, <item:extendedcrafting:the_ultimate_ingot>, <item:mysticalagradditions:nether_star_crux>],
-	[<item:armorplus:the_ultimate_material>, <item:mysticalagradditions:dragon_egg_crux>, <item:armorplus:the_ultimate_material>, <item:mysticalagradditions:dragon_egg_crux>, <item:armorplus:the_ultimate_material>]
+	[<item:armorplus:the_ultimate_material>, <item:betterendforge:aeternium_ingot>, <item:armorplus:the_ultimate_material>, <item:betterendforge:aeternium_ingot>, <item:armorplus:the_ultimate_material>],
+	[<item:mysticalagradditions:dragon_egg_crux>, <item:theabyss:knight_ingot>, <item:mekanism:pellet_antimatter>, <item:theabyss:knight_ingot>, <item:mysticalagradditions:nether_star_crux>],
+	[<item:armorplus:the_ultimate_material>, <item:mekanism:pellet_antimatter>, <item:mysticalagradditions:creative_essence>, <item:mekanism:pellet_antimatter>, <item:armorplus:the_ultimate_material>],
+	[<item:mysticalagradditions:dragon_egg_crux>, <item:theabyss:knight_ingot>, <item:mekanism:pellet_antimatter>, <item:theabyss:knight_ingot>, <item:mysticalagradditions:nether_star_crux>],
+	[<item:armorplus:the_ultimate_material>, <item:bloodmagic:corrupted_dust>, <item:armorplus:the_ultimate_material>, <item:bloodmagic:corrupted_dust>, <item:armorplus:the_ultimate_material>]
 ]);
 
 
