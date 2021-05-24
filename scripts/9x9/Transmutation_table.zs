@@ -389,18 +389,6 @@ mods.extendedcrafting.TableCrafting.addShaped("creative_crate", <item:create:cre
 ]);
 
 
-
-//neutron_collector
-mods.extendedcrafting.TableCrafting.addShaped("neutron_collector", <item:avaritia:neutron_collector>, [
-	[<item:armorplus:the_ultimate_material>, <item:betterendforge:aeternium_ingot>, <item:armorplus:the_ultimate_material>, <item:betterendforge:aeternium_ingot>, <item:armorplus:the_ultimate_material>],
-	[<item:mysticalagradditions:dragon_egg_crux>, <item:theabyss:knight_ingot>, <item:mekanism:pellet_antimatter>, <item:theabyss:knight_ingot>, <item:mysticalagradditions:nether_star_crux>],
-	[<item:armorplus:the_ultimate_material>, <item:mekanism:pellet_antimatter>, <item:mysticalagradditions:creative_essence>, <item:mekanism:pellet_antimatter>, <item:armorplus:the_ultimate_material>],
-	[<item:mysticalagradditions:dragon_egg_crux>, <item:theabyss:knight_ingot>, <item:mekanism:pellet_antimatter>, <item:theabyss:knight_ingot>, <item:mysticalagradditions:nether_star_crux>],
-	[<item:armorplus:the_ultimate_material>, <item:bloodmagic:corrupted_dust>, <item:armorplus:the_ultimate_material>, <item:bloodmagic:corrupted_dust>, <item:armorplus:the_ultimate_material>]
-]);
-
-
-
 //tome
 mods.extendedcrafting.TableCrafting.addShaped("tome", <item:projecte:tome>, [
 	[<item:astralsorcery:shifting_star_vicio>, <item:projecte:red_matter_block>, <item:projecte:red_matter_block>, <item:mysticalagradditions:insanium_ingot>, <item:mysticalagradditions:insanium_gemstone>, <item:mysticalagradditions:insanium_ingot>, <item:projecte:red_matter_block>, <item:projecte:red_matter_block>, <item:astralsorcery:shifting_star_armara>],
