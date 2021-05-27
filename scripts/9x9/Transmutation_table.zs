@@ -388,7 +388,6 @@ mods.extendedcrafting.TableCrafting.addShaped("creative_crate", <item:create:cre
 	[<item:compressium:iron_5>, <item:compressium:iron_5>, <item:compressium:iron_5>, <item:compressium:iron_5>, <item:compressium:iron_5>, <item:compressium:iron_5>, <item:compressium:iron_5>]
 ]);
 
-
 //tome
 mods.extendedcrafting.TableCrafting.addShaped("tome", <item:projecte:tome>, [
 	[<item:astralsorcery:shifting_star_vicio>, <item:projecte:red_matter_block>, <item:projecte:red_matter_block>, <item:mysticalagradditions:insanium_ingot>, <item:mysticalagradditions:insanium_gemstone>, <item:mysticalagradditions:insanium_ingot>, <item:projecte:red_matter_block>, <item:projecte:red_matter_block>, <item:astralsorcery:shifting_star_armara>],
@@ -585,4 +584,12 @@ craftingTable.addShaped("manyullyn_boots", <item:armorplus:manyullyn_boots>, [
 	[<item:tconstruct:manyullyn_ingot>, <item:minecraft:air>, <item:tconstruct:manyullyn_ingot>],
 	[<item:tconstruct:manyullyn_ingot>, <item:minecraft:air>, <item:tconstruct:manyullyn_ingot>],
 	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
+]);
+
+
+//menril_sapling
+craftingTable.addShaped("menril_sapling", <item:integrateddynamics:menril_sapling>, [
+	[<item:integrateddynamics:menril_berries>, <item:integrateddynamics:menril_berries>, <item:integrateddynamics:menril_berries>],
+	[<item:integrateddynamics:menril_berries>, <item:minecraft:oak_sapling>, <item:integrateddynamics:menril_berries>],
+	[<item:integrateddynamics:menril_berries>, <item:integrateddynamics:menril_berries>, <item:integrateddynamics:menril_berries>]
 ]);
