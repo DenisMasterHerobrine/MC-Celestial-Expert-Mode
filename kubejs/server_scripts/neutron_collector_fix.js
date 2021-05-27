@@ -1,7 +1,7 @@
 // This script will be successfully loaded on client, if it will be loaded on server - this recipe will be just removed. This should solve a problem with Neutronium Collector on server.
 
+onEvent('recipes', event => {
 event.custom({
-	{
   "type": "extendedcrafting:shaped_table",
   "pattern": [
     "ABABA",
@@ -37,7 +37,7 @@ event.custom({
     }
   },
   "result": {
-    "item": ""
+    "item": "avaritia:neutron_collector"
   }
-}
+})
 })
