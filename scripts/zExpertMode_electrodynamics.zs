@@ -1,3 +1,4 @@
+#packmode expert
 // Script Author: DenisMasterHerobrine
 // Remove Electrodynamics circuits in favor of Mekanism Circuits. However I liked these textures too.
 

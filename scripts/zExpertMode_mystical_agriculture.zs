@@ -1,5 +1,7 @@
+#packmode expert
 // Gate Mystical Agriculture. Requires AS + Botania + Mana and Artifice + Blood Magic to use Mystical Agriculture seeds.
 // However, you may craft a lot of Infusion Crystals... if you like wasting resources.
+// Script Author: DenisMasterHerobrine
 
 craftingTable.removeByName("mysticalagriculture:infusion_crystal");
 craftingTable.removeByName("mysticalagriculture:master_infusion_crystal");
