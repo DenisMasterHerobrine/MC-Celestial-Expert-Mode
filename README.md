@@ -2,7 +2,7 @@
 This is repository for Expert Mode of Minecraft modpack called MC Celestial. 
 
 While original recipes are still harder than original, it allows to complete this modpack in a way shorter time than it could. Expert Mode changes lots of recipes and adds lots of cross-mod recipes, so you'll need to go through every mod in the modpack and play around with automation. Expert mode is based on huge automation setups rather than grinding resources. However, you need to explore different dimensions too to acquire different items to craft a machine from a mod.
-However, it's still beta. Expect recipe changes and 
+However, it's still beta. Expect recipe changes or/and possible recipe loops.
 
 
 **Currently supported versions of this modpack:**
