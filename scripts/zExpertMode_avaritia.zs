@@ -1,4 +1,4 @@
-#packmode expert
+#packmode Normal
 
 // Expert version of Neutron Collector. Requires nearly all the mods from the pack to begin Neutronium Production on the AFK way.
 
@@ -23,7 +23,7 @@ mods.extendedcrafting.TableCrafting.addShaped("b7bdd97e-3f56-4e4a-948a-1882d8ab7
 	[<item:minecraft:air>, <item:avaritia:neutronium_ingot>, <item:allthemodium:unobtainium_allthemodium_alloy_block>, <item:mana-and-artifice:transitory_tunnel>, <item:mekanism:module_teleportation_unit>, <item:electrodynamics:crystalvanadium>, <item:allthemodium:vibranium_allthemodium_alloy_block>, <item:avaritia:neutronium_ingot>, <item:minecraft:air>], 
 	[<item:avaritia:neutronium_ingot>, <item:extendedcrafting:ultimate_singularity>, <item:astralsorcery:shifting_star_discidia>, <item:mekanism:module_teleportation_unit>, <item:bloodmagic:bettercapacityrune>, <item:mekanism:module_teleportation_unit>, <item:astralsorcery:shifting_star_evorsio>, <item:extendedcrafting:ultimate_singularity>, <item:avaritia:neutronium_ingot>], 
 	[<item:minecraft:air>, <item:avaritia:neutronium_ingot>, <item:allthemodium:unobtainium_allthemodium_alloy_block>, <item:jaopca:mekanism_crystals.thallasium>, <item:mekanism:module_teleportation_unit>, <item:projecte:red_matter>, <item:allthemodium:vibranium_allthemodium_alloy_block>, <item:avaritia:neutronium_ingot>, <item:minecraft:air>], 
-	[<item:minecraft:air>, <item:avaritia:neutronium_ingot>, <item:compressium:stone_8>, <item:allthemodium:unobtainium_vibranium_alloy_block>, <item:extendedcrafting:the_ultimate_block>, <item:allthemodium:unobtainium_vibranium_alloy_block>, <item:compressium:stone_8>, <item:avaritia:neutronium_ingot>, <item:minecraft:air>], 
+	[<item:minecraft:air>, <item:avaritia:neutronium_ingot>, <item:compressium:stone_8>, <item:allthemodium:unobtainium_vibranium_alloy_block>, <item:ae2extras:16m_cell_component>, <item:allthemodium:unobtainium_vibranium_alloy_block>, <item:compressium:stone_8>, <item:avaritia:neutronium_ingot>, <item:minecraft:air>], 
 	[<item:minecraft:air>, <item:minecraft:air>, <item:avaritia:neutronium_ingot>, <item:avaritia:neutronium_ingot>, <item:extendedcrafting:ultimate_singularity>, <item:avaritia:neutronium_ingot>, <item:avaritia:neutronium_ingot>, <item:minecraft:air>, <item:minecraft:air>], 
 	[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:avaritia:neutronium_ingot>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
 ]);

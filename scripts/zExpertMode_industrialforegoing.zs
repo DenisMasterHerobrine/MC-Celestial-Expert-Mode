@@ -1,4 +1,5 @@
-#packmode expert
+#packmode Normal
+
 // Industrial Foregoing is gated behind Create + Tinkers + Forbidden and Arcanus + Botania
 // Script Author: DenisMasterHerobrine
 

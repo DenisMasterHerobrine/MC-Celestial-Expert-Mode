@@ -1,4 +1,4 @@
-#packmode expert
+#packmode Normal
 
 // Pedestals is gated behind Eidolon and Lord Craft.
 // Script Author: DenisMasterHerobrine

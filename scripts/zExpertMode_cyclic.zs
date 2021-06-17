@@ -1,4 +1,4 @@
-#packmode expert
+#packmode Normal
 
 // Cyclic is being gated behind a lot of mods too.
 // Script Author: DenisMasterHerobrine

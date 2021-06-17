@@ -1,4 +1,4 @@
-#packmode expert
+#packmode Normal
 
 // Thermal Expansion is gated behind Tinkers Construct + Twilight Forest + some EvilCraft.
 // Script Author: DenisMasterHerobrine

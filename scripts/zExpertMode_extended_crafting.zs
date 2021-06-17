@@ -1,4 +1,4 @@
-#packmode expert
+#packmode Normal
 
 // Expert version of The Ultimate Ingot. Requires nearly all the mods from the pack to begin Ultimate production on the AFK way.
 mods.extendedcrafting.TableCrafting.remove(<item:extendedcrafting:the_ultimate_ingot>); // Remove Normal Mode recipe in favor of Expert one.

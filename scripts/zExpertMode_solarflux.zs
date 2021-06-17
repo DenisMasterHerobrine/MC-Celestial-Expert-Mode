@@ -1,4 +1,4 @@
-#packmode expert
+#packmode Normal
 
 // SolarFlux nerf because of 100 RF/t generation.
 // Script Author: DenisMasterHerobrine

@@ -1,4 +1,4 @@
-#packmode expert
+#packmode Normal
 
 // ProjectE is gated behind most of mods. Requires 75% of mods to be completed.
 // Script Author: DenisMasterHerobrine

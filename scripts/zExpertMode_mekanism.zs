@@ -1,4 +1,5 @@
-#packmode expert
+#packmode Normal
+
 // Gated behind Blood Magic Tier 3 + Thermal Expansion and some Tinkers Construct stuff.
 // Script Author: DenisMasterHerobrine
 
