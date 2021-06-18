@@ -16,10 +16,10 @@ mods.extendedcrafting.TableCrafting.addShaped("bc2c4acc-750d-464d-94d1-c46148546
 
 // Watch of Flowing Time gated because of massive TPS lag on servers.
 craftingTable.removeByName("projecte:watch_of_flowing_time");
-mods.extendedcrafting.TableCrafting.addShaped("7243d53b-1a3a-4891-a395-fba25959d3e2", 0, <item:projecte:watch_of_flowing_time>, [
-	[<item:minecraft:air>, <item:projecte:dark_matter>, <item:extendedcrafting:singularity>.withTag({Id: "extendedcrafting:electrum" as string}), <item:projecte:dark_matter>, <item:minecraft:air>], 
-	[<item:projecte:dark_matter>, <item:twilightforest:aurora_block>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:twilightforest:aurora_block>, <item:projecte:dark_matter>], 
-	[<item:projecte:dark_matter>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:mekanism:sps_port>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:projecte:dark_matter>], 
-	[<item:projecte:dark_matter>, <item:twilightforest:aurora_block>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:twilightforest:aurora_block>, <item:projecte:dark_matter>], 
-	[<item:minecraft:air>, <item:projecte:dark_matter>, <item:cyclic:clock>, <item:projecte:dark_matter>, <item:minecraft:air>]
+mods.extendedcrafting.TableCrafting.addShaped("5fe771ed-3ce8-4487-b397-660d07b6c995", 0, <item:projecte:watch_of_flowing_time>, [
+	[<item:minecraft:air>, <item:projecte:dark_matter>, <item:extendedcrafting:ultimate_singularity>, <item:projecte:dark_matter>, <item:minecraft:air>], 
+	[<item:projecte:dark_matter>, <item:compressium:netherite_2>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:compressium:netherite_2>, <item:projecte:dark_matter>], 
+	[<item:extendedcrafting:ultimate_singularity>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:mekanism:sps_port>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:extendedcrafting:ultimate_singularity>], 
+	[<item:projecte:dark_matter>, <item:compressium:netherite_2>, <item:minecraft:clock>.withTag({"quark:clock_calculated": 1 as byte}), <item:compressium:netherite_2>, <item:projecte:dark_matter>], 
+	[<item:minecraft:air>, <item:projecte:dark_matter>, <item:extendedcrafting:ultimate_singularity>, <item:projecte:dark_matter>, <item:minecraft:air>]
 ]);
