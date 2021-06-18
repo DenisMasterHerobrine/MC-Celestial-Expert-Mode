@@ -6,12 +6,14 @@ However, it's still beta. Expect recipe changes or/and possible recipe loops or 
 
 **Currently supported versions of this modpack:**
  - 1.1.1
- - 1.1.2 (requires manual fix from "fixes" folder to be applied first!)
- - 1.1.3 (requires manual fix from "fixes" folder to be applied first!)
+ - 1.1.2
+ - 1.1.3 
+ - 1.1.4
+and probably future versions if nothing will be removed.
 
 While this is a separate project, as of release it can be moved into original MC Celestial pack, so you don't need to download Expert Mode separately each update.
 
-To install Expert Mode for MC Celestial go to [releases](https://github.com/DenisMasterHerobrine/MC-Celestial-Expert-Mode/releases) section. (Currently no public beta, but you can download a ZIP at any time you want!)
-Download a zip file. Extract it into your MC Celestial pack folder, restart MC and use /packmode set expert on your server or client (singleplayer).
+To install Expert Mode for MC Celestial go to [releases](https://github.com/DenisMasterHerobrine/MC-Celestial-Expert-Mode/releases) section. Select a version.
+Download a zip file. Extract it into your MC Celestial pack folder. You want to remove Expert Mode for some reason? Remove every file named with zExpertMode and ExpertMode in scripts and kubejs/server_scripts.
 
 Found a bug? Or have a question? Create an issue on this repository [here](https://github.com/DenisMasterHerobrine/MC-Celestial-Expert-Mode/issues).
