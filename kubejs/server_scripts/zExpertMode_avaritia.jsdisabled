@@ -1,0 +1,200 @@
+// packmode: expert
+
+onEvent('recipes', event => {
+  event.remove({id: 'crafttweaker:infinity_catalyst'})
+  event.custom({
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "    A    ",
+    "  AABAA  ",
+    " ACDEFCA ",
+    " AGHIJKA ",
+    "ABLIMINBA",
+    " AGOIPKA ",
+    " ACQRQCA ",
+    "  AABAA  ",
+    "    A    "
+  ],
+  "key": {
+    "A": {
+      "item": "avaritia:neutronium_ingot"
+    },
+    "B": {
+      "item": "extendedcrafting:ultimate_singularity"
+    },
+    "C": {
+      "item": "compressium:stone_8"
+    },
+    "D": {
+      "item": "astralsorcery:shifting_star_aevitas"
+    },
+    "E": {
+      "item": "extendedcrafting:the_ultimate_block"
+    },
+    "F": {
+      "item": "astralsorcery:shifting_star_armara"
+    },
+    "G": {
+      "item": "allthemodium:unobtainium_allthemodium_alloy_block"
+    },
+    "H": {
+      "item": "mana-and-artifice:transitory_tunnel"
+    },
+    "I": {
+      "item": "mekanism:module_teleportation_unit"
+    },
+    "J": {
+      "item": "electrodynamics:crystalvanadium"
+    },
+    "K": {
+      "item": "allthemodium:vibranium_allthemodium_alloy_block"
+    },
+    "L": {
+      "item": "astralsorcery:shifting_star_discidia"
+    },
+    "M": {
+      "item": "bloodmagic:bettercapacityrune"
+    },
+    "N": {
+      "item": "astralsorcery:shifting_star_evorsio"
+    },
+    "O": {
+      "item": "jaopca:mekanism_crystals.thallasium"
+    },
+    "P": {
+      "item": "projecte:red_matter"
+    },
+    "Q": {
+      "item": "allthemodium:unobtainium_vibranium_alloy_block"
+    },
+    "R": {
+      "item": "ae2extras:16m_cell_component"
+    }
+  },
+  "result": {
+    "item": "avaritia:infinity_catalyst"
+  }
+})
+
+  event.remove({id: 'crafttweaker:neutron_collector'})
+  event.custom({
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "ABCDCBA",
+    "BEFGFEB",
+    "HFIJIFH",
+    "DKJLJKD",
+    "MFIJIFM",
+    "BEFNFEB",
+    "ABODOBA"
+  ],
+  "key": {
+    "A": {
+      "item": "atum:ceramic_white"
+    },
+    "B": {
+      "item": "jaopca:storage_blocks.aquamarine"
+    },
+    "C": {
+      "item": "theabyss:knight_ingot"
+    },
+    "D": {
+      "item": "bloodmagic:chargingrune"
+    },
+    "E": {
+      "item": "compressium:redstone_5"
+    },
+    "F": {
+      "item": "iceandfire:dragonsteel_lightning_block"
+    },
+    "G": {
+      "item": "avaritia:neutronium_nugget"
+    },
+    "H": {
+      "item": "psi:ebony_psimetal_block"
+    },
+    "I": {
+      "item": "create:refined_radiance_casing"
+    },
+    "J": {
+      "item": "thermal:machine_frame"
+    },
+    "K": {
+      "item": "compressium:netherite_4"
+    },
+    "L": {
+      "item": "nuclearscience:celldarkmatter"
+    },
+    "M": {
+      "item": "psi:ivory_psimetal_block"
+    },
+    "N": {
+      "item": "projecte:dark_matter_block"
+    },
+    "O": {
+      "item": "armorplus:the_ultimate_material"
+    }
+  },
+  "result": {
+    "item": "avaritia:neutron_collector"
+  }
+})
+
+  event.remove({id: 'crafttweaker:celestial_catalyst'})
+  event.custom({
+  "type": "extendedcrafting:shaped_table",
+  "pattern": [
+    "AA  B  AA",
+    "AABBCBBAA",
+    " BDEFEDB ",
+    " BEGHGEB ",
+    "BCFIJIFCB",
+    " BEGKGEB ",
+    " BDEFEDB ",
+    "AABBCBBAA",
+    "AA  B  AA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:refined_radiance"
+    },
+    "B": {
+      "item": "avaritia:neutronium_ingot"
+    },
+    "C": {
+      "item": "projecte:watch_of_flowing_time"
+    },
+    "D": {
+      "item": "twilightforest:fiery_blood"
+    },
+    "E": {
+      "item": "projecte:condenser_mk2"
+    },
+    "F": {
+      "item": "extendedcrafting:ultimate_singularity"
+    },
+    "G": {
+      "item": "extendedcrafting:the_ultimate_block"
+    },
+    "H": {
+      "item": "create:refined_radiance_casing"
+    },
+    "I": {
+      "item": "avaritia:infinity_catalyst"
+    },
+    "J": {
+      "item": "astralsorcery:fountain_prime_vortex"
+    },
+    "K": {
+      "item": "industrialforegoing:machine_frame_supreme"
+    }
+  },
+  "result": {
+    "item": "kubejs:celestial_catalyst"
+  }
+})
+})
+
+
+  
+

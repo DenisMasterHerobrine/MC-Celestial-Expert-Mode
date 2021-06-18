@@ -8,3 +8,5 @@ craftingTable.removeByModid("refinedstorage");
 craftingTable.removeRecipe(<item:iceandfire:dragonsteel_lightning_sword>);
 craftingTable.removeRecipe(<item:iceandfire:dragonsteel_ice_sword>);
 craftingTable.removeRecipe(<item:iceandfire:dragonsteel_fire_sword>);
+
+craftingTable.removeRecipe(<item:twilightforest:uncrafting_table>);
