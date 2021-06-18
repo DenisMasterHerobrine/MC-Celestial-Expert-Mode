@@ -1,5 +1,14 @@
 #packmode Normal
 
+craftingTable.removeRecipe(<item:appliedenergistics2:crafting_unit>);
+mods.extendedcrafting.TableCrafting.addShaped("34739b9f-e901-4fc0-8c58-e9a497714138", 0, <item:appliedenergistics2:crafting_unit>, [
+	[<item:tconstruct:large_plate>.withTag({Material: "tconstruct:silver" as string}), <item:advancedrocketry:platetitaniumaluminide>, <item:appliedenergistics2:logic_processor>, <item:advancedrocketry:platetitaniumaluminide>, <item:tconstruct:large_plate>.withTag({Material: "tconstruct:silver" as string})], 
+	[<item:advancedrocketry:platetitaniumaluminide>, <item:appliedenergistics2:purified_nether_quartz_crystal>, <item:pipez:universal_pipe>, <item:appliedenergistics2:purified_nether_quartz_crystal>, <item:advancedrocketry:platetitaniumaluminide>], 
+	[<item:appliedenergistics2:logic_processor>, <item:pipez:universal_pipe>, <item:industrialforegoing:machine_frame_supreme>, <item:pipez:universal_pipe>, <item:appliedenergistics2:logic_processor>], 
+	[<item:advancedrocketry:platetitaniumaluminide>, <item:appliedenergistics2:purified_nether_quartz_crystal>, <item:pipez:universal_pipe>, <item:appliedenergistics2:purified_nether_quartz_crystal>, <item:advancedrocketry:platetitaniumaluminide>], 
+	[<item:tconstruct:large_plate>.withTag({Material: "tconstruct:silver" as string}), <item:advancedrocketry:platetitaniumaluminide>, <item:appliedenergistics2:logic_processor>, <item:advancedrocketry:platetitaniumaluminide>, <item:tconstruct:large_plate>.withTag({Material: "tconstruct:silver" as string})]
+]);
+
 craftingTable.removeRecipe(<item:appliedenergistics2:inscriber>);
 mods.extendedcrafting.TableCrafting.addShaped("27777178-3bbd-4d10-8317-bb8d9000135c", 0, <item:appliedenergistics2:inscriber>, [
 	[<item:tconstruct:large_plate>.withTag({Material: "tconstruct:silver" as string}), <item:thermal:lumium_plate>, <item:mekanism:hdpe_stick>, <item:thermal:lumium_plate>, <item:tconstruct:large_plate>.withTag({Material: "tconstruct:silver" as string})], 
